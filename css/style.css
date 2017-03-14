@@ -1,0 +1,55 @@
+.navbar-default
+{
+    border: 2px solid #ccc
+}
+.navbar-default .navbar-brand
+{
+    color: #000;
+}
+
+.navbar-brand 
+{
+    font-size: 25px;
+    padding: 20px;
+    font-weight: bold;
+    line-height: 15px;
+}    
+
+
+
+h1
+{
+    margin-bottom: 35px;
+    color:crimson
+}
+
+.main
+{
+    background-color: #EEE;
+    padding: 5px;
+    margin-bottom: 20px
+}
+.main p
+{
+    padding: 5px;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+    font-size: 20px;
+}
+
+.navbar-nav > li > a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 20px;
+    background-color: indianred;
+    border: 2px solid #000;
+    margin-bottom: 1px;
+    
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #da0c0c;
+    background-color: rgba(220, 9, 60, 0.13);
+}
